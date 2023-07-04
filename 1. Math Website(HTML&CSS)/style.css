@@ -118,11 +118,11 @@ transition: font-size 0.3s ease;
 }
 #leftsidebar{
     float: left;
-    margin-left: 300px;
+    margin-left: 250px;
 }
 #rightsidebar{
     float: right;
-    margin-right: 300px;
+    margin-right: 250px;
 }
 .sideBar h3{
     color: #B314DB;
