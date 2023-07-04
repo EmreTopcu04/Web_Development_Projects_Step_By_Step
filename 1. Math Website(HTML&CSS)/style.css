@@ -1,8 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}  
 body{
     font: Arial, Helvetica, sans-serif;
 }
 #container{
-    width: 1920px;
+    width: auto;
     margin: 0,auto;
     background-image: url(images/background.jpg);
 }
